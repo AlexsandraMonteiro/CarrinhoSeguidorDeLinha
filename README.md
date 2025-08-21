@@ -1,4 +1,4 @@
-# CarrinhoSeguidorDeLinha
+# Carrinho Seguidor De Linha
 
 Desenvolvi esse código para controlar um robô seguidor de linha, com o objetivo de participar de uma competição promovida pela minha faculdade. A programação foi realizada com foco em eficiência, estabilidade e resposta rápida aos estímulos do sensor, respeitando os critérios técnicos estabelecidos pelo regulamento da prova.
 
